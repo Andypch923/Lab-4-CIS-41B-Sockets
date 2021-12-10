@@ -1,0 +1,1 @@
+       print(self.__df['Australia'][1990])
